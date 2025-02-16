@@ -1,0 +1,10 @@
+GIT
+--------------------
+
+> Git is used to stored the code in local system.
+
+> Internet os not mandatory to save the coded in local system.
+
+> Git was invited in 2005.
+
+> Git can be used without  Githu (To store the code).
